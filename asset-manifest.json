@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Baheryan/employees-accounting.git/static/css/main.6981b853.css",
-    "main.js": "/Baheryan/employees-accounting.git/static/js/main.ec6c52f2.js",
-    "index.html": "/Baheryan/employees-accounting.git/index.html",
-    "main.6981b853.css.map": "/Baheryan/employees-accounting.git/static/css/main.6981b853.css.map",
-    "main.ec6c52f2.js.map": "/Baheryan/employees-accounting.git/static/js/main.ec6c52f2.js.map"
+    "main.css": "/employees-accounting/static/css/main.6981b853.css",
+    "main.js": "/employees-accounting/static/js/main.ec6c52f2.js",
+    "index.html": "/employees-accounting/index.html",
+    "main.6981b853.css.map": "/employees-accounting/static/css/main.6981b853.css.map",
+    "main.ec6c52f2.js.map": "/employees-accounting/static/js/main.ec6c52f2.js.map"
   },
   "entrypoints": [
     "static/css/main.6981b853.css",
